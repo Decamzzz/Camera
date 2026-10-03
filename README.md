@@ -24,7 +24,7 @@ La aplicación permite:
 
 Clonar el repositorio:
 
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/Decamzzz/Camera.git
 
 Entrar al proyecto:
 
