@@ -28,7 +28,7 @@ git clone URL_DEL_REPOSITORIO
 
 Entrar al proyecto:
 
-cd captura_recorte_flutter
+cd camera
 
 Instalar dependencias:
 
