@@ -55,3 +55,5 @@ image_cropper
 CroppedFile
     ↓
 Image.file
+
+© Deiby Camilo Botina - Jaider Orlando España 2026
